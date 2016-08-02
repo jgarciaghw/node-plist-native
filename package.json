@@ -1,6 +1,6 @@
 {
   "name": "plist-native",
-  "author": "Olivier Louvignes",
+  "author": "Jorge Rafael Garcia Ramos",
   "license": "MIT",
   "version": "0.4.2",
   "description": "Node.js native plist parser & builder",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgcrea/node-plist-native.git"
+    "url": "https://github.com/jgarciaghw/node-plist-native.git"
   },
   "keywords": [
     "plist",
     "xml"
   ],
   "dependencies": {
-    "libxmljs": "^0.17.1"
+    "libxmljs": ">0.17.1"
   },
   "devDependencies": {
     "nodeunit": "0.9.1"
